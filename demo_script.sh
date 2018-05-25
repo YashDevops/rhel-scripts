@@ -8,7 +8,4 @@ sudo apt-get update
 
 sudo apt-get install sl
 
-
-sleep(20)
-
 sl
