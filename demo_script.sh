@@ -2,10 +2,10 @@
 
 
 
-This is just demo script to check that all is working fine
+echo "This is just demo script to check that all is working fine"
 
 sudo apt-get update
 
 sudo apt-get install sl
 
-date
+sleep 225
